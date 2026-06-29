@@ -108,3 +108,6 @@ npm install @modelcontextprotocol/sdk axios
 - **API 키 불필요** — GAS 웹 앱 URL 하나로 연결
 - **핸들러 2개** — `ListTools` + `CallTool` 만으로 Claude가 도구 자동 인식
 - **자연어 제어** — "A1:D5 읽어줘" 한 문장으로 스프레드시트 조작
+
+
+[reference url](https://lobehub.com/ko/mcp/shawntony-claude-google-apps-script-mcp-guide)
