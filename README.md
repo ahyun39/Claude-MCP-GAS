@@ -2,7 +2,7 @@
 
 > Google API 키, OAuth 없이 — Apps Script 하나로 스프레드시트를 Claude와 연결
 
-**[인터랙티브 가이드 보기](https://ahyun39.github.io/Claude-MCP-GAS/interactive-guide.html)**
+**[인터랙티브 가이드 보기](https://ahyun39.github.io/Claude-MCP-GAS/guide/interactive-guide.html)**
 
 ---
 
@@ -61,7 +61,7 @@ npm install @modelcontextprotocol/sdk axios
 
 ### 3. MCP 서버 코드
 
-`src/server.js` → [전체 코드는 가이드 참고](https://ahyun39.github.io/Claude-MCP-GAS/interactive-guide.html#step3)
+`src/server.js` → [전체 코드는 가이드 참고](https://ahyun39.github.io/Claude-MCP-GAS/guide/interactive-guide.html#step3)
 
 핵심 구조: `ListToolsRequestSchema` 핸들러로 도구 목록 제공 → `CallToolRequestSchema` 핸들러로 GAS 웹 앱에 HTTP POST 전달
 
