@@ -86,6 +86,10 @@ npm install @modelcontextprotocol/sdk axios
 
 저장 후 **Claude Desktop 재시작** → 채팅창 `+` → `커넥터`에서 `google-apps-script-mcp` 확인
 
+
+### 5. Spreadsheets 편집 권한 추가
+
+Read/Write 작업할 Spreadsheet > 공유 > 일반  액세스 - 링크가 있는 모든 사용자 > `편집자`로 설정
 ---
 
 ## 사용 예시
